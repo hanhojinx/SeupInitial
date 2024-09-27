@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeupInitial&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={seupjak})](https://solved.ac/{seupjak})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seupjak)](https://solved.ac/seupjak/)
 
 - 🎯 I specialize in...
 - 📰 I regularly publish articles on **[Brunch](https://brunch.co.kr/@906b0d7f015f49e)**
