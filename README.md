@@ -1,4 +1,4 @@
-## Welcome to SeupArchive
+# Welcome to SeupArchive!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeupInitial&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
