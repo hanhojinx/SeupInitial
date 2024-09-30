@@ -21,6 +21,7 @@ Tools & Platforms
 
 ## Contacts
 - Mail: seupjak@korea.ac.kr
+- Linktree: [@seupjak](https://linktr.ee/permafrost_)
 - Instagram: [@hanhojin.official](https://www.instagram.com/hanhojin.official/)
 
 
