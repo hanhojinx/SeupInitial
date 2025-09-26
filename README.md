@@ -23,5 +23,5 @@ Tools & Platforms
 - Linktree: [@seupjak](https://linktr.ee/permafrost_)
 - Instagram: [@hanhojin.official](https://www.instagram.com/hanhojin.official/)
 - X: [@hanhojinx](https://x.com/hanhojinx?s=11)
-
+- My [CV Page](https://hanhojin.netlify.app/)
 
