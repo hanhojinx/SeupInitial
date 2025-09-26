@@ -8,11 +8,12 @@
 
 ## Tech Stack
 Languages & Frameworks
+
 Tools & Platforms
 
 ## Who Am I?
 > Hello, I am currently a student majoring in Computer Science & Engineering.
-- 🎯 I specialize in the fields of **Information Security**
+- 🎯 I specialize in the fields of **Cybersecurity**
 - 🌐 I regularly publish articles on **[Brunch](https://brunch.co.kr/@seupjak)**
 - 📰 You can also check my private writings on **[SeupArchive(Naver Blog)](https://blog.naver.com/seupjak_)**
 - 🌱 I’m currently interested in **MLOps/LLMOps**
@@ -21,5 +22,6 @@ Tools & Platforms
 - Mail: seupjak@korea.ac.kr
 - Linktree: [@seupjak](https://linktr.ee/permafrost_)
 - Instagram: [@hanhojin.official](https://www.instagram.com/hanhojin.official/)
+- X: [@hanhojinx](https://x.com/hanhojinx?s=11)
 
 
